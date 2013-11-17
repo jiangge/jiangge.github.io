@@ -4,7 +4,7 @@
   <title><![CDATA[LLMP.ORG]]></title>
   <link href="http://jiangge.github.io/atom.xml" rel="self"/>
   <link href="http://jiangge.github.io/"/>
-  <updated>2013-11-17T17:29:44+08:00</updated>
+  <updated>2013-11-17T17:51:52+08:00</updated>
   <id>http://jiangge.github.io/</id>
   <author>
     <name><![CDATA[Jiang]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[LLMP V1.0.2 released]]></title>
+    <link href="http://jiangge.github.io/blog/2013/11/17/llmp-v1-dot-0-2-released/"/>
+    <updated>2013-11-17T17:48:00+08:00</updated>
+    <id>http://jiangge.github.io/blog/2013/11/17/llmp-v1-dot-0-2-released</id>
+    <content type="html"><![CDATA[<p>please get the source at <a href="http://llmp.org/download/llmp-1.0.2.tar.gz">http://llmp.org/download/llmp-1.0.2.tar.gz</a></p>
+
+<p>Changs from 1.0.1</p>
+
+<ul>
+<li>index.html: add Lighttpd &amp; MySQL &amp; PHP logo</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[LLMP V1.0.1 released]]></title>
