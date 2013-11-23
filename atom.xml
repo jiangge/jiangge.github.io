@@ -4,7 +4,7 @@
   <title><![CDATA[LLMP]]></title>
   <link href="http://jiangge.github.io/atom.xml" rel="self"/>
   <link href="http://jiangge.github.io/"/>
-  <updated>2013-11-23T16:31:48+08:00</updated>
+  <updated>2013-11-23T16:34:44+08:00</updated>
   <id>http://jiangge.github.io/</id>
   <author>
     <name><![CDATA[Jiang]]></name>
@@ -34,7 +34,7 @@
     <link href="http://jiangge.github.io/blog/2013/11/17/llmp-v1-dot-0-2-released/"/>
     <updated>2013-11-17T17:48:00+08:00</updated>
     <id>http://jiangge.github.io/blog/2013/11/17/llmp-v1-dot-0-2-released</id>
-    <content type="html"><![CDATA[<p>LLMP(Linux / Lighttpd / MySQL / PHP), please get the source at <a href="http://llmp.org/download/llmp-1.0.2.tar.gz">http://llmp.org/download/llmp-1.0.2.tar.gz</a></p>
+    <content type="html"><![CDATA[<p><a href="http://llmp.org" title="LLMP">LLMP</a> (Linux / Lighttpd / MySQL / PHP), please get the source at <a href="http://llmp.org/download/llmp-1.0.2.tar.gz">http://llmp.org/download/llmp-1.0.2.tar.gz</a></p>
 
 <p>Changs from 1.0.1</p>
 
