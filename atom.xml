@@ -4,7 +4,7 @@
   <title><![CDATA[LLMP]]></title>
   <link href="http://jiangge.github.io/atom.xml" rel="self"/>
   <link href="http://jiangge.github.io/"/>
-  <updated>2013-11-23T18:39:03+08:00</updated>
+  <updated>2013-12-08T15:44:02+08:00</updated>
   <id>http://jiangge.github.io/</id>
   <author>
     <name><![CDATA[Jiang]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Easy to install]]></title>
+    <link href="http://jiangge.github.io/blog/2013/12/08/easy-to-install/"/>
+    <updated>2013-12-08T15:36:00+08:00</updated>
+    <id>http://jiangge.github.io/blog/2013/12/08/easy-to-install</id>
+    <content type="html"><![CDATA[<p>Test at <a href="http://www.linode.com">Linode</a></p>
+
+<ol>
+<li><p>Type the command
+<img src="http://jiangge.github.io/images/linode1.png" alt="1st" /></p></li>
+<li><p>Wait&hellip;
+<img src="http://jiangge.github.io/images/linode2.png" alt="2nd" />
+<img src="http://jiangge.github.io/images/linode3.png" alt="3rd" />
+<img src="http://jiangge.github.io/images/linode4.png" alt="4th" /></p></li>
+<li><p>Completed
+<img src="http://jiangge.github.io/images/linode5.png" alt="5th" /></p></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[LLMP V1.0.4 Released]]></title>
+    <link href="http://jiangge.github.io/blog/2013/12/08/llmp-v1-dot-0-4-released/"/>
+    <updated>2013-12-08T15:33:00+08:00</updated>
+    <id>http://jiangge.github.io/blog/2013/12/08/llmp-v1-dot-0-4-released</id>
+    <content type="html"><![CDATA[<p><a href="http://llmp.org" title="LLMP">LLMP</a> (Linux / Lighttpd / MySQL / PHP), please get the source at <a href="http://llmp.org/download/llmp-1.0.4.tar.gz">http://llmp.org/download/llmp-1.0.4.tar.gz</a></p>
+
+<p>Changs from 1.0.3</p>
+
+<pre><code>fix the lihttpd.conf
+</code></pre>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[LLMP V1.0.3 released]]></title>
