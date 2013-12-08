@@ -4,7 +4,7 @@
   <title><![CDATA[LLMP]]></title>
   <link href="http://jiangge.github.io/atom.xml" rel="self"/>
   <link href="http://jiangge.github.io/"/>
-  <updated>2013-12-08T15:44:02+08:00</updated>
+  <updated>2013-12-08T15:53:15+08:00</updated>
   <id>http://jiangge.github.io/</id>
   <author>
     <name><![CDATA[Jiang]]></name>
@@ -18,17 +18,21 @@
     <link href="http://jiangge.github.io/blog/2013/12/08/easy-to-install/"/>
     <updated>2013-12-08T15:36:00+08:00</updated>
     <id>http://jiangge.github.io/blog/2013/12/08/easy-to-install</id>
-    <content type="html"><![CDATA[<p>Test at <a href="http://www.linode.com">Linode</a></p>
+    <content type="html"><![CDATA[<ol>
+<li>Type</li>
+</ol>
+
+
+<p><img src="http://jiangge.github.io/images/linode1.png" alt="1st" />
+<img src="http://jiangge.github.io/images/linode2.png" alt="2nd" /></p>
 
 <ol>
-<li><p>Type the command
-<img src="http://jiangge.github.io/images/linode1.png" alt="1st" /></p></li>
 <li><p>Wait&hellip;
-<img src="http://jiangge.github.io/images/linode2.png" alt="2nd" />
 <img src="http://jiangge.github.io/images/linode3.png" alt="3rd" />
 <img src="http://jiangge.github.io/images/linode4.png" alt="4th" /></p></li>
 <li><p>Completed
-<img src="http://jiangge.github.io/images/linode5.png" alt="5th" /></p></li>
+<img src="http://jiangge.github.io/images/linode5.png" alt="5th" />
+<img src="http://jiangge.github.io/images/linode6.png" alt="6th" /></p></li>
 </ol>
 
 ]]></content>
