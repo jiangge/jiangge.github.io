@@ -4,7 +4,7 @@
   <title><![CDATA[LLMP]]></title>
   <link href="http://jiangge.github.io/atom.xml" rel="self"/>
   <link href="http://jiangge.github.io/"/>
-  <updated>2013-12-08T15:53:15+08:00</updated>
+  <updated>2013-12-08T15:55:53+08:00</updated>
   <id>http://jiangge.github.io/</id>
   <author>
     <name><![CDATA[Jiang]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Easy to install]]></title>
+    <title type="html"><![CDATA[Easy to install LLMP(Linux/Lighttpd/MySQL/PHP)]]></title>
     <link href="http://jiangge.github.io/blog/2013/12/08/easy-to-install/"/>
     <updated>2013-12-08T15:36:00+08:00</updated>
     <id>http://jiangge.github.io/blog/2013/12/08/easy-to-install</id>
